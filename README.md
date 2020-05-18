@@ -33,3 +33,9 @@ Es posible que también la configuración sea personalizada antes de la publicac
 En cuanto a la generación de la tabla de negocios será necesario que se haga la correcta gestión de los datos tales como me gusta y retweets que pueda tener una publicación. El dashboard contendrá la información organizada de los denominados tweets más populares, como la información de los menos populares, lo cual ayudará a hacer una gestión de relevancia de temas y alcance de la cuenta.
 
 No se especifica si ese dashboard debe ser accesible por solo el usuario, o si puede ser compartido ya sea con cuentas específicas o al público en general.
+
+### Link avance casos de uso
+
+Plataforma: Lucidchart.
+
+https://app.lucidchart.com/invitations/accept/85120e89-e7b1-4e25-bd13-9a1b0d8ad4c3
